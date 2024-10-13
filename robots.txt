@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://furiyayt.github.io/sitemap.xml
